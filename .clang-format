@@ -1,0 +1,12 @@
+IndentWidth: 2
+UseTab: Never
+BraceWrapping:
+  AfterClass: true
+  AfterFunction: true
+  AfterControlStatement: true
+  AfterNamespace: true
+  AfterStruct: true
+  AfterUnion: true
+  BeforeCatch: true
+  BeforeElse: true
+  IndentBraces: false

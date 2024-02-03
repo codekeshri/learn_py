@@ -1,0 +1,10 @@
+{
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  
+    "editor.guides.indentation": false,
+
+    "workbench.colorTheme": "Monokai",
+  
+}
